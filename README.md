@@ -13,6 +13,7 @@ Tools Used:
 - Data Cleaning
 
  Key Insights:
+ 
 The analysis shows that R03 generated the highest total sales, while R01 achieved the highest customer satisfaction rating. This indicates that strong sales performance does not always guarantee the highest customer satisfaction.
 
 Saturday appears to be the most important day for the business, as it has both the highest revenue and the highest number of calls. This suggests increased customer activity during weekends.
